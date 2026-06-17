@@ -1,0 +1,5 @@
+{
+  "version": "0.1.6",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-0.1.6.vsix",
+  "notes": "账号列表顶部新增「本地代理地址」输入框 +「强制 devin 走本地代理」勾选框：勾选写入 http.proxy / http.proxySupport=on / vwdevin.proxy（值取输入框），取消勾选则删除；并内置自动更新（启动/定时检查新版，一键下载安装、提示重载）。"
+}
