@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-0.1.6.vsix",
-  "notes": "账号列表顶部新增「本地代理地址」输入框 +「强制 devin 走本地代理」勾选框：勾选写入 http.proxy / http.proxySupport=on / vwdevin.proxy（值取输入框），取消勾选则删除；并内置自动更新（启动/定时检查新版，一键下载安装、提示重载）。"
+  "version": "1.0.0",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-1.0.0.vsix",
+  "notes": "v1.0.0 正式版：内置 cpolar 内网穿透客户端——客户首次点「一键内网穿透」不再联网下载、不受 cpolar 官网下载地址变动影响（旧版缓存会自动升级为内置版）；mac/linux 保留下载兜底并改为版本化地址优先、补齐 mac arm64。沿用一键换登 Devin + 工作分支面板 +「强制 devin 走本地代理」+ 内置自动更新。"
 }
