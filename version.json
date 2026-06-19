@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-1.0.0.vsix",
-  "notes": "v1.0.0 正式版：内置 cpolar 内网穿透客户端——客户首次点「一键内网穿透」不再联网下载、不受 cpolar 官网下载地址变动影响（旧版缓存会自动升级为内置版）；mac/linux 保留下载兜底并改为版本化地址优先、补齐 mac arm64。沿用一键换登 Devin + 工作分支面板 +「强制 devin 走本地代理」+ 内置自动更新。"
+  "version": "1.1.0",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-1.1.0.vsix",
+  "notes": "v1.1.0 更新内容：\n1. 换登时自动读取本地代理设置（开了系统/规则代理即可，换登更稳定，不用再手填代理地址）。\n2. 会话管理：点击会话标题（或行尾「查看」）可在编辑器标签里预览完整对话（只读 Markdown）。\n3. IDE 右下角状态栏显示当前账号的额外额度，自动刷新，点击可手动刷新。\n4. 修复：账号列表里勾选的复选框会被定时刷新额度冲掉的问题。\n5. 内网穿透记住「只读模式 / 允许执行命令」两个勾选偏好；已停止状态不再显示「停止穿透 / 复制凭据」按钮。"
 }
