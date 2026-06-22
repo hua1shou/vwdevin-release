@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-1.1.1.vsix",
-  "notes": "v1.1.1 bug fix release"
+  "version": "1.2.0",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-1.2.0.vsix",
+  "notes": "1.导出账号列表中的账号 2.全程免魔法（测试版）"
 }
