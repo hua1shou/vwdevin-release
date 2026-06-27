@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-1.3.0.vsix",
-  "notes": "1.新增cloudflared隧道后端支持 2.内置cloudflared二进制文件 3.隧道后端下拉选择器UI"
+  "version": "2.0.0",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.0.0.vsix",
+  "notes": "1.添加多浏览器并行\n2.新增隧道ngrok\n3.修改仓库知识查重bug"
 }
