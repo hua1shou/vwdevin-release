@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.0.0.vsix",
-  "notes": "1.添加多浏览器并行\n2.新增隧道ngrok\n3.修改仓库知识查重bug"
+  "version": "2.0.1",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.0.1.vsix",
+  "notes": "1.放宽导入账号和换登的限制\n2.优化插件挂载速度\n3.修复部分已知的bug"
 }
