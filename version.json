@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.0.1.vsix",
-  "notes": "1.放宽导入账号和换登的限制\n2.优化插件挂载速度\n3.修复部分已知的bug"
+  "version": "2.1.0",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.1.0.vsix",
+  "notes": "1.会话管理中续接会话可选择模型\n2.本地会话可直接拖拽到聊天框\n3.账号列表可展开该账号所有会话，点击会话可打开浏览器\n4.删除水印"
 }
