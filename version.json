@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.1.1.vsix",
-  "notes": "1.适配邮箱----密码 导入\n2.修复账号列表打开浏览器bug\n3.修复服务器上拿不到ide登录账号导致无法使用的问题\n4.修复会话管理中选择模型回退agent的问题\n5.当前仓库知识增加批量删除功能"
+  "version": "2.2.0",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.2.0.vsix",
+  "notes": "1.邮箱账号登录改为「邮箱 + 密码」：输入邮箱后下一页直接输入密码，不再接码。\n2.批量导入支持 邮箱----密码 与 邮箱<Tab>密码（含空格分隔）两种格式。\n3.刷新额度 / 切号 / 打开浏览器等所有需要登录的入口统一走密码登录。"
 }
