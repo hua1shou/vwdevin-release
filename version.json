@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.3.0.vsix",
-  "notes": "1. MCP：自动读取各客户端（Claude Desktop / Claude Code / Cursor / VS Code / Codex）的 MCP 配置文件，并自动注册到隧道，云端模型可直接使用本地 MCP\n2. 会话管理：模型与操作系统列表改为自动获取当前版本（落盘缓存 + 后台静默刷新）\n3. 续接：超过 6 万字符自动改为附件续接，不再截断\n4. 静默换号：换号无需再点确认（优先内部命令登录，失败回退 deep-link）\n5. 熔断值：低于设定值自动暂停该账号下的所有会话（10 秒一次查询，账号建议 30 个以下）\n6. 面板最上方显示版本号\n7. 账号列表展开会话后可销毁该会话的虚拟机（官方接口，自动创建组织 API key；无 key 时回退归档）"
+  "version": "2.3.3",
+  "vsix": "https://raw.githubusercontent.com/hua1shou/vwdevin-release/main/vwdevin-switch-2.3.3.vsix",
+  "notes": "关闭白名单：移除授权/白名单校验，所有功能不再向授权服务器发送请求，可直接正常使用。"
 }
